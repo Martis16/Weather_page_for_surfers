@@ -1,0 +1,75 @@
+table.meniu {
+    text-align: center;
+    background-color:#F8E9FC;
+    border:3px solid black;
+}
+
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    border-width: 3px;
+    border-style: solid;
+ 
+    padding: 1px;
+    background-color: white;                
+}
+table.backlink {  
+    margin-left:auto; 
+    margin-right:auto;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    border-width: 13px;
+    border-style: solid;
+    border-color: red;    
+    background-color: cyan;   
+}
+body {
+    text-align:center;
+	height: 100%;
+    margin: 0;
+}   
+html {  
+	height: 100%;
+    margin: 0;
+}
+.divss{
+	margin-right:40px;
+}
+label.col{
+	color: white;
+
+}
+.bg {
+  
+  background-image: url("sailor2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  min-height: 100%; 
+}
+
+
+form.login {
+    margin-bottom:0;
+    padding:20px; 
+    background-color:white; 
+    border:0px;   
+	
+}
+input.s1 {   
+    width:100%;
+    font-size:13pt;
+    text-align:left;
+	
+	
+}
+input.s2 {   
+    width:100%;
+    font-size:13pt;
+    text-align:left;
+	color: #FFFFFF
+}
+
