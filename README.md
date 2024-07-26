@@ -1,4 +1,5 @@
-# Weather page for surfers with user managment.
+# Topic:
+Weather page for surfers with user managment.
 
 # Stack
 * HTML 
@@ -7,4 +8,5 @@
 * PHP 
 * MySQL.
 
+# How To Run:
 
